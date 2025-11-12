@@ -1,7 +1,6 @@
 # Bulk Email Generator
 
-![Bulk Email Generator](https://raw.githubusercontent.com/alexrony21/Bulk-Email-Generator/refs/heads/main/smart_email_grabber_main.png)
-![Bulk Email Generator](https://raw.githubusercontent.com/alexrony21/Bulk-Email-Generator/refs/heads/main/smart_email_grabber_result.png)
+![Bulk Email Generator](https://raw.githubusercontent.com/thepythoncode97/Bulk-Email-Generator/refs/heads/main/smart_email_grabber_result.png)
 
 ## ✨ Features
 
